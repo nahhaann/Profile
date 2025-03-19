@@ -3,23 +3,22 @@
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" alt="GitHub Banner" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm Nahan!</h1>
+<h1 align="center">👋 Hey, I'm Nahan A!</h1>
 
 <p align="center">
-  🎓 Student at **Institute Certus** | 🤖 AI & Machine Learning Enthusiast | 💻 Full-Stack Developer | 📊 Data & Business Analyst  
+ 🤖 AI & Machine Learning Enthusiast  | 📊 Data & Business Analyst  
 </p>
 
 ---
 
 ### 💡 About Me  
-- 📚 **Currently studying at Institute Certus**  
+
 - 🌱 Exploring **AI, Machine Learning, Robotics, Data Engineering, Data Analytics, and Business Analytics**  
-- 💻 Passionate about **Full-Stack Development and Data Science**  
+- 💻 Passionate about **Data Science**  
 - 🐍 Skilled in **Python, C++, JavaScript, and MySQL**  
 - 🎨 Experienced in **GIMP, Canva, and Adobe Lightroom**  
 - 📈 Building **insightful dashboards with Power BI & Excel**  
-- 🤖 **Developing ML models with TensorFlow, Scikit-learn, and SciPy**  
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)  
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/nahan-a-923693356) 
 
 ---
 
@@ -49,8 +48,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nahhaann&show_icons=true&theme=tokyonight" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahhaann&theme=tokyonight" width="400px"/>
 </p>
 
 ---
@@ -58,7 +57,7 @@
 ### 📈 GitHub Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahhaann&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -66,10 +65,10 @@
 ### 🔗 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/nahan-a-923693356">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="nahanalungal23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
