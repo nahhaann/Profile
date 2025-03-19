@@ -1,3 +1,4 @@
+![Tech GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <!-- Add a header image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/nahhaann/nahhaann/main/banner.png" alt="GitHub Banner" width="100%"/>
