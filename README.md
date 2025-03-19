@@ -1,6 +1,6 @@
 <!-- Add a header image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" alt="GitHub Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/nahhaann/nahhaann/main/banner.png" alt="GitHub Banner" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm Nahan A!</h1>
@@ -68,7 +68,7 @@
   <a href="https://www.linkedin.com/in/nahan-a-923693356">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="nahanalungal23@gmail.com">
+  <a href="nahanalungal123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
