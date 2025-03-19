@@ -1,7 +1,7 @@
-![Tech GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <!-- Add a header image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nahhaann/nahhaann/main/banner.png" alt="GitHub Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/nahhaann/nahhaann/main/banner.png" alt="![Tech GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm Nahan A!</h1>
