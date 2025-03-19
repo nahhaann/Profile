@@ -1,8 +1,4 @@
 <!-- Add a header image -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/nahhaann/nahhaann/main/banner.png" alt="GitHub Banner" width="100%"/>
-" width="100%"/>
-</p>
 
 <h1 align="center">👋 Hey, I'm Nahan A!</h1>
 
