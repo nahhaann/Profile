@@ -11,7 +11,7 @@
 
 - 🌱 Exploring **AI, Machine Learning, Robotics, Data Engineering, Data Analytics, and Business Analytics**  
 - 💻 Passionate about **Data Science**  
-- 🐍 Skilled in **Python, C++, JavaScript, and MySQL**  
+- 🐍 Skilled in **Python, and MySQL**  
 - 🎨 Experienced in **GIMP, Canva, and Adobe Lightroom**  
 - 📈 Building **insightful dashboards with Power BI & Excel**  
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/nahan-a-923693356)  
