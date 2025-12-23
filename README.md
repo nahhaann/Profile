@@ -9,7 +9,7 @@
 
 ### 💡 About Me  
 
-- 🌱 Exploring **AI, Machine Learning, Robotics, Data Engineering, Data Analytics, and Business Analytics**  
+- 🌱 Exploring **AI, Machine Learning, Data Engineering, Data Analytics, and Business Analytics**  
 - 💻 Passionate about **Data Science**  
 - 🐍 Skilled in **Python, and MySQL**  
 - 📈 Building **insightful dashboards with Power BI & Excel**  
